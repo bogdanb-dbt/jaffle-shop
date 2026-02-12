@@ -1,13 +1,5 @@
 # 🥪 The Jaffle Shop 🦘
-
-<<<<<<< HEAD
-somethign siofsadfa
-fdaf
-=======
--- I'm adding these lines to create
--- a merge conflict in dbt Studio
->>>>>>> 773379c0dee278c35898736b3848bf25d64a169a
-
+Fixed
 
 This is a sandbox project for exploring the basic functionality and latest features of dbt. It's based on a fictional restaurant called the Jaffle Shop that serves [jaffles](https://en.wikipedia.org/wiki/Pie_iron).
 
