@@ -27,6 +27,7 @@ renamed as (
         {{ dbt.date_trunc('day','ordered_at') }} as ordered_at
 
     from source
+    where id is not null
 
 )
 
